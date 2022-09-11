@@ -1,2 +1,2 @@
 # my-portfolio
-This is my portfolio as a front end developer, made with HTML and CSS technologies.
+This is my portfolio as a web developer, made with HTML and CSS technologies.
